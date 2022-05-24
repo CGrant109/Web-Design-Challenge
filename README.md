@@ -1,14 +1,11 @@
 ## Web-Design-Challenge: CSS and HTML
-## 
+## Finding temperatures, humidity, cloudiness, and wind speed among cities.
 
-Finding temperatures, humidity, cloudiness, and wind speed among cities.
-
-## Methods Used  
-
+## Methods & Technologies Used  
+CSS, HTML, Pandas, Matplotlib.pyplot
 
 
 
-## Technologies
 
 
 
@@ -19,10 +16,8 @@ Data found in Resources/cities.csv
 
 ## Installation
 
-Code was tested using
+Pages were tested using Preview option within VSCODE on each page.
 
-
-## Additional Analysis
 
 
 
